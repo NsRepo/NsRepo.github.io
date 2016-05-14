@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Filename: ./debs//com.nsrepo.nstheme_1.0.1_iphoneos-arm.deb
 Size: 633958
-MD5sum: cbbb64bf2404df09b3bec86643d2031a
-SHA1: 9c72e252640d77bdf618247f5acee6f4fa3feef8
-SHA256: eafe195a605c51c63da1359e0eb693ae55b31c669e118603db64344cc2a8ad29
+MD5sum: dd6d0f649a894e6da598de9d106f5f7d
+SHA1: 23f8d1905d114b0ba5104e35dba445ea4818ec2a
+SHA256: 2a15cbabc8cb6ed700d718239ed58ada48d963f6878e9259b8dbb1d3517f61ce
 Section: MThemes
 Description: Crystal Apple Theme
 Author:  NsBm0d 
@@ -20,12 +20,13 @@ Essential: yes
 Maintainer: NsRepo <reponame@example.com>
 Filename: ./debs//com.nsrepo.icons_1.0.2_iphoneos-arm.deb
 Size: 21042
-MD5sum: b4e768460db5e6e5d89794e998d782d5
-SHA1: 4400ba0d5b5a41ae276e694491f95c3951cf8ae4
-SHA256: 09319fa51257b45fd3da3fc168e96f63c010bd19e1016ff70a64b046ba4e6d12
+MD5sum: 9234811c3afc6072f86a6e18ce583e51
+SHA1: 038e0b2b8546a2965175f22afce3cc9537e9aa7a
+SHA256: f7fda4b39249a1aaabf441eebb6f19c475f6ad373e7c08c7d2f4e2bfb386d038
 Section: MTweaks
 Priority: required
 Description: Adds Images to Sections
 Author: NsRepo
 Depiction: https://NsRepo.github.io/depictions/?p=com.NsRepo.icons
 Name: icons
+
