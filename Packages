@@ -1,15 +1,15 @@
 Package: com.NsRepo.icons
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: NsRepo <reponame@example.com>
-Filename: ./debs//com.nsrepo.icons_1.0_iphoneos-arm.deb
-Size: 20950
-MD5sum: cce56007cf0b8f412ccd58e98df11aa5
-SHA1: 3b82044f4955f55ac1e5beacd2c7b4cc6a757f25
-SHA256: 26e9965e787d977cf68b1cfd7ded9f28de851a3df9742991c2d9822dcebfb968
+Filename: ./debs//com.nsrepo.icons_1.0.1_iphoneos-arm.deb
+Size: 20970
+MD5sum: 35b2733b2e13ba65314a1ab30bed4d0e
+SHA1: a6855100599f84b0ee9cac68d4b7be80d35d92e4
+SHA256: 2b0c4abcaa4891bbf18b621f8e2c4a81c9c3246ead3ccccaf06dcf5d637d01a2
 Section: MTweaks
 Description: Adds Icon Images
 Author: NsRepo
-Depiction: https://github.com/Arep0/Arep0.github.io
+Depiction: https://NsRepo.github.io/depictions/?p=com.nsrepo.icons
 Name: icons
 
