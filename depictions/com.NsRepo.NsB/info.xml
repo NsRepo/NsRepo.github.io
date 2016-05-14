@@ -1,0 +1,39 @@
+<package>
+	<id>com.NsRepo.NsB</id>
+	<name>NsB</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+      <maxiOS>9.0.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is a Sample Theme.</description>
+		<description>It has a Crystal Apple start up screen.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Crystal Apple start up screen.</description>
+			<image>image.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Changed images on the control center</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>NsBm0d NsB Theme</name>
+			<url>https://youtu.be/lxIToc40pWM</url>
+		</link>
+	</links>
+</package>
