@@ -1,9 +1,9 @@
 Architecture: iphoneos-arm
 Author:  NsBm0d 
 Description: Crystal Apple Theme
-Depiction: https://github.com/NsRepo/NsRepo.github.io
+Depiction: https://NsRepo.github.io/depictions/?p=com.NsRepo.NsTheme
 Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
 Name: NsTheme
 Package: com.NsRepo.NsTheme
 Section: MThemes
-Version: 1.0
+Version: 1.0.1
