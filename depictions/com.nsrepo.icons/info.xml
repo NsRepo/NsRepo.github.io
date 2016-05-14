@@ -1,0 +1,41 @@
+<package>
+	<id>com.nsrepo.icons</id>
+	<name>icons</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+      <maxiOS>9.0+</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is a Theme.</description>
+		<description>Adds images to the Sections in Cydia.</description>
+		<description>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>MThems.</description>
+			<image>MThemes.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Mmods</description>
+			<image>MMods.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>Nrepo NsB Theme</name>
+			<url>https://youtu.be/lxIToc40pWM</url>
+		</link>
+	</links>
+</package>
