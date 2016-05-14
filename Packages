@@ -1,18 +1,3 @@
-Package: com.NsRepo.NsB
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
-Filename: ./debs//com.nsrepo.nsb_1.0_iphoneos-arm.deb
-Size: 633806
-MD5sum: 331b739829f6731cbc9aa500a424894c
-SHA1: 0bab26c2dcd3daa838c13abb563f8bb3d8546021
-SHA256: 0371d552a7ad8d98e173eaaf2ba671a98a5528312ec6eb6def59ed416fcae274
-Section: NThemes
-Description: Crystal Apple
-Author:  NsBm0d 
-Depiction: https://NsRepo.github.io/depictions/?p=com.NsRepo.NsB
-Name: NsB
-
 Package: com.NsRepo.NsTheme
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -44,4 +29,3 @@ Description: Adds Images to Sections
 Author: NsRepo
 Depiction: https://NsRepo.github.io/depictions/?p=com.NsRepo.icons
 Name: icons
-
