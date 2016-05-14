@@ -1,4 +1,4 @@
 #!/bin/bash
 git add --all
-git commit -m "description"
+git commit -m "updated files"
 git push
