@@ -6,6 +6,4 @@ Maintainer: NsRepo <reponame@example.com>
 Name: icons
 Package: com.NsRepo.icons
 Section: MTweaks
-Essential: yes
-Priority: required
-Version: 1.0.2
+Version: 1.0.1
