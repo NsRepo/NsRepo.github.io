@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: NsRepo
+Depiction: https://github.com/Arep0/Arep0.github.io
+Description: Adds Icon Images
+Maintainer: NsRepo <reponame@example.com>
+Name: icons
+Package: com.NsRepo.icons
+Section: MTweaks
+Version: 1.0
