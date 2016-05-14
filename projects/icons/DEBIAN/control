@@ -5,5 +5,7 @@ Description: Adds Images to Sections
 Maintainer: NsRepo <reponame@example.com>
 Name: icons
 Package: com.NsRepo.icons
+Essential: yes
+Priority: required
 Section: MTweaks
-Version: 1.0.1
+Version: 1.0.2
