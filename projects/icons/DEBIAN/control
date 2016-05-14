@@ -1,9 +1,9 @@
 Architecture: iphoneos-arm
 Author: NsRepo
-Depiction: https://NsRepo.github.io/depictions/?p=com.nsrepo.icons
-Description: Adds Icon Images
+Depiction: https://github.com/NsRepo/NsRepo.github.io
+Description: Adds Images to Sections
 Maintainer: NsRepo <reponame@example.com>
 Name: icons
 Package: com.NsRepo.icons
 Section: MTweaks
-Version: 1.0.3
+Version: 1.0
